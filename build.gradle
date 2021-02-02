@@ -10,7 +10,7 @@ jar {
     manifest {
         attributes(
                 'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
-                'Main-Class': 'hello.HelloWorld'
+                'Main-Class': 'tk.merisen.basics.task7.Main'
         )
     }
 }
