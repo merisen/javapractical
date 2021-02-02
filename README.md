@@ -1,0 +1,2 @@
+# javapractical
+Java practical tasks
